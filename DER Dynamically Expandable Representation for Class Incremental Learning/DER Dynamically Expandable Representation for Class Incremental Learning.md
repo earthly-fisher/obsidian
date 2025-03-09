@@ -37,7 +37,7 @@ https://github.com/Rhyssiyan/DER-ClassIL.pytorch
 # 结构
 
 两步实现：特征提取采用冻结手段保留前次参数，新增参数使用减值方法抑制参数爆炸。分类器训练新增一个辅助损失，将过去所有类别归为一类，与新增类别一起构成辅助分类器。
-![[images/Pasted image 20250307172552.png]]
+![](images/Pasted_image_20250307172552.png)
 
 # 切片
 
