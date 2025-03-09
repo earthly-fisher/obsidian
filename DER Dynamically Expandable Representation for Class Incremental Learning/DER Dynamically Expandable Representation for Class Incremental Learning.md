@@ -25,9 +25,9 @@ CIFAR-100, ImageNet-100, ImageNet-1000
 # 性能
 
 文章内：
-![[./images/Pasted image 20250309170727.png]]
-![[./images/Pasted image 20250309170754.png]]
-![[./images/Pasted image 20250309172905.png]]
+![](images/Pasted_image_20250309170727.png)
+![](images/Pasted_image_20250309170754.png)
+![](images/Pasted_image_20250309172905.png)
 
 **复现（环境**）：
 
