@@ -4,10 +4,14 @@ tags:
   - continual
   - structure
   - class_incremental
+  - memory_buffer
 ---
 # motivation
 
+有限记忆空间的类增量学习
+
 # 结论
+
 
 # 数据
 
