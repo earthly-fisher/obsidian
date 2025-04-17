@@ -1,10 +1,10 @@
 ---
 来源: cvpr 2021
 tags:
-  - continual
   - structure
   - class_incremental
   - memory_buffer
+  - continual
 time: "2021"
 ---
 # motivation
